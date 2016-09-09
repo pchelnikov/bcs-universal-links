@@ -4,15 +4,15 @@
             "details": [
                 {
                     "appID": "FD6ZML48V9.com.anjlab.BCSInvest",
-                    "paths": [ "*"]
+                    "paths": [ "/promo/*"]
                 },
                 {
                     "appID": "FD6ZML48V9.com.anjlab.BCSInvestProduction",
-                    "paths": [ "*"]
+                    "paths": [ "/promo/*"]
                 },
                 {
                     "appID": "78AP6P3EK2.ru.bcs-express.BCS",
-                    "paths": [ "*"]
+                    "paths": [ "/promo/*"]
                 }
             ]
     }
